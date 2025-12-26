@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"opvra/flagset"
+	"github.com/Opvra/flagset"
 )
 
 const (

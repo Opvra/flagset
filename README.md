@@ -1,4 +1,4 @@
-# opvra/flagset
+# github.com/Opvra/flagset
 
 Small, dependency-free flag set utilities for Go. This package provides a compact, stable bitmask type and a registry for name <-> bit mapping.
 
